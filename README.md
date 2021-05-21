@@ -27,7 +27,7 @@ As budding web developers, we were tasked with taking our new-found knowledge of
 • THEN I am again presented with current and future conditions for that city
 
 ## Deployed Application
-[Link goes here]
+https://aliciavega731.github.io/weather-dashboard/
 
 ## Screenshot
-[Attach screenshot here]
+![Screenshot](./assets/images/serverside-API.png)
